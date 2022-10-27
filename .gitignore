@@ -1,0 +1,5 @@
+/.idea/
+ DEVELOPER
+/target/
+*.xml
+*.iml
